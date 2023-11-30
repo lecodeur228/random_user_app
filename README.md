@@ -1,16 +1,12 @@
-# contact_app
 
-A new Flutter project.
+  random_user_app
 
-## Getting Started
+        git clone https://github.com/lecodeur228/random_user_app.git
 
-This project is a starting point for a Flutter application.
+        flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+ app screen
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/lecodeur228/random_user_app/assets/92242447/80b3cff2-c841-4059-b0b5-fdc18d6bc6b7
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
